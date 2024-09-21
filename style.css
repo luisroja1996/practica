@@ -1,0 +1,17 @@
+h1{
+    color: black;
+    background: yellow;
+}
+
+p{
+    color: blue;
+}
+
+h2{
+    color: red;
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: underline red solid 5px;
+    text-align: center;
+}
